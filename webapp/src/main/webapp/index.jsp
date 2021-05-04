@@ -2,5 +2,5 @@
 <h2> we sucessfully Deployed our web application on tomcat server </h2>
 <h2> how are you all...? </h2>
 <h2> Introduction of devops </h2>
-<h2> we deployed the chages to server </h2>
+
 
