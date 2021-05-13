@@ -1,11 +1,12 @@
-<h1> Hello, Welcome to RS Technologies How are you all !!   </h1>
-<h2> we sucessfully Deployed our web application on tomcat server </h2>
-<h2> how are you all...? </h2>
-<h2> how are you all...? </h2>
-<h2> how are you all...? </h2>
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>My First deployment</h1>
+<p>My welcome to tomcat.</p>
 
-
+</body>
+</html>
 
 
 
